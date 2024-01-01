@@ -15,8 +15,3 @@
 Whether it's a potential project, a question about data science, or just a general interest chat, I'm always open to connect and explore how we can drive progress together. Let's leverage the power of data to create solutions that matter!
 
 #DataScience #SAPCertified #OperationalExcellence #InnovativeProblemSolver
-
-<!---
-danial-r-inam/danial-r-inam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
